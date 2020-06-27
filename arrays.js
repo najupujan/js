@@ -22,7 +22,7 @@ superNested.push(["dog", "cat", "deer"]); //same as append(python) in list
 console.log(superNested);
 var lastRemovedData = superNested.pop(); //remove the last data
 console.log(lastRemovedData);
-var firstRemovedData = superNested.shift();//remove the first element
+var firstRemovedData = superNested.shift(); //remove the first element
 console.log(firstRemovedData);
 superNested.unshift(["door", "window", "brick"]);
 console.log(superNested);

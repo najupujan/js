@@ -1,0 +1,7 @@
+function add_num() {
+  var a = 2;
+  var b = 3;
+  var c = a + b;
+  console.log(c);
+}
+add_num();
