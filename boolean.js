@@ -1,0 +1,4 @@
+function welcomeToBoolean() {
+  return true;
+
+}
